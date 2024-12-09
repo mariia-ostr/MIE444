@@ -2,7 +2,7 @@
 Code repo from the MIE444 final project.
 
 ## Milestone 1
-Contains Milestone1_sim.py, the script used for the presentation of Milestone 1. The physical rover was undergoing major design changes at that moment, so simmer was used instead.
+Contains test_client.py, the script used for the presentation of Milestone 1. The physical rover was undergoing major design changes at that moment, so simmer was used instead.
 
 
 ## Milestone 2
