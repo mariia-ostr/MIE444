@@ -4,6 +4,8 @@ Code repo from the MIE444 final project.
 ## Milestone 1
 Contains test_client.py, the script used for the presentation of Milestone 1. The physical rover was undergoing major design changes at that moment, so simmer was used instead.
 
+config.py, the configuration file from simmer.
+
 
 ## Milestone 2
 Contains obstacle_avoidance.py, used in Milestone 2.
